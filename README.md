@@ -1,5 +1,4 @@
 # NovaChain Hub
----
 ![NovaChain Hub Cover](novachainhub.png)
 
 Welcome to **NovaChain Hub's Official GitLab Profile.**
@@ -8,7 +7,6 @@ Welcome to **NovaChain Hub's Official GitLab Profile.**
 
 Our mission is to empower developers, startups, and enterprises to create **secure, scalable, and intelligent products** powered by blockchain and AI.
 
----
 
 ## 🧬 About Us
 
@@ -27,7 +25,6 @@ Our expertise includes:
 
 Our team of engineers and innovators works to build **secure, scalable, and high-performance systems** that push the boundaries of Web3 and AI.
 
----
 
 ## 🔧 Core Activities
 
@@ -43,7 +40,6 @@ Our team of engineers and innovators works to build **secure, scalable, and high
 
 **Research & Innovation** – Exploring the intersection of **AI and decentralized technologies**
 
----
 
 ## 🎯 Focus Areas
 
@@ -55,7 +51,6 @@ Our team of engineers and innovators works to build **secure, scalable, and high
 - FinTech Solutions  
 - GameFi & decentralized platforms
 
----
 
 ## 🔐 Our Philosophy
 
@@ -64,7 +59,6 @@ Our team of engineers and innovators works to build **secure, scalable, and high
 NovaChain Hub believes the future of technology lies at the intersection of **blockchain and artificial intelligence**.  
 We focus on **security-first development, scalable architecture, and open innovation** to build powerful digital ecosystems.
 
----
 
 ## 🤝 Collaborate With Us
 
