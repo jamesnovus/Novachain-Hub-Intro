@@ -1,7 +1,7 @@
 # NovaChain Hub
 ![NovaChain Hub Cover](novachainhub.png)
 
-Welcome to **NovaChain Hub's Official GitLab Profile.**
+Welcome to **NovaChain Hub's Official GitHub Profile.**
 
 **NovaChain Hub** is a technology hub focused on **Web3 and Artificial Intelligence**, building innovative decentralized systems and intelligent automation solutions for the next generation of digital infrastructure.
 
