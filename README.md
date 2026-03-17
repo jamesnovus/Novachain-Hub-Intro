@@ -12,8 +12,8 @@ Building the future of <b>Web3</b> and <b>Artificial Intelligence</b>.
 
 <p align="center">
   <a href="https://novachainhub.com" target="_blank">🌐 Website</a> •
-  <a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/" target="_blank">💻 Repositories</a>
+  <a href="https://www.linkedin.com/company/novachain-hub" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/NovaChain-Hub/" target="_blank">💻 Repositories</a>
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ Together we can build the future of **decentralized and intelligent technologies
 
 # 🌍 Community & Links
 
-🌐 Website  
-https://novachainhub.com
+🌐 Website: https://novachainhub.com
+📩 Contact us: hello@novachainhub.co
 
 💡 NovaChain Hub is building the future where **Blockchain meets Artificial Intelligence**.
